@@ -179,6 +179,14 @@ Menu::Menu(QWidget *parent)
     ui->specPlot->yAxis2->setTicks(false);  // 隐藏右轴的刻度线
     ui->specPlot->hide();  // 初始隐藏图表
     });
+// 初始化焊接类型下拉框
+ui->comboBox_3->addItem("打底焊");
+ui->comboBox_3->addItem("填充焊");
+
+ui->comboBox_4->addItem("横焊"); 
+ui->comboBox_4->addItem("立焊");
+ui->comboBox_4->addItem("角焊");
+
 
     infrared_features = new py::object(py::module_::import("infrared_features"));
     image_features = new py::object(py::module_::import("image_featuresA"));
@@ -432,6 +440,12 @@ void Menu::on_startButton_clicked()
     ui->soundground->hide();
     ui->specground->hide();
     });
+
+    int type1 = ui->comboBox_3->currentIndex(); // 0=打底焊,1=填充焊
+    int type2 = ui->comboBox_4->currentIndex(); // 0=横焊,1=立焊,2=角焊
+    
+    // 组合类型编码规则
+    weldType = type1 * 3 + type2; // 0-5
 
     // 创建保存本次采集数据的文件夹
     QDir dir;
