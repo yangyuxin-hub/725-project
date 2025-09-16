@@ -1,0 +1,16 @@
+AvaSoft 8.4.0
+
+Release Date (yyyy-mm-dd): 2016-04-26
+
+Changes / New features:
+
+- Added support AvaSpec-ULS2048CL-EVO
+- Added support AvaSpec-NIR512-HSC
+
+
+Bug fixes:
+
+- Offset level AvaSpec-2048x64TEC
+- Lockup of AvaSoft8 on live export to excel with > 16383 columns
+    
+

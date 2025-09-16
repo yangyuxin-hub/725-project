@@ -1,0 +1,29 @@
+AvaSoft 8.9.0
+
+Release Date (yyyy-mm-dd): 2019-01-02
+
+Changes / New features:
+
+- Changed SLS error/warning messages 
+- Improved multiplexer recognition
+- Improved periodically saving of merged files
+- Changed max absorbance value from 4.0 to 5.0 in calculations and plot
+- Custom Reflectance is now saved in both regular and STR files
+- Custom reflectance now works in 3D app
+- Improved saving features in experiment files
+- Added FX3 firmware version to About Box
+
+
+Bug fixes:
+
+- Irradiance settings were not always saved correctly
+- Fixed problem when restarting master/slave setups
+- Fixed problem when restarting ETH spectrometers
+- Fixed problem when reattaching spectrometers in Raman app
+- Fixed trigger options dialog
+
+
+
+
+    
+

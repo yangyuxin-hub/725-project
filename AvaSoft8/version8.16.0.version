@@ -1,0 +1,27 @@
+AvaSoft 8.16.0
+
+Release Date (yyyy-mm-dd): 2023-06-01
+
+Changes / New features:
+
+- Windows 7 is no longer supported. 
+- Added Windows 11 as supported platform.
+- Now showing an error message when preparing the measurement fails.
+- Changing the integration time while running a measurement in S-d mode will now show a warning to save a new dark reference.
+- Added additional info on functions available for user defined TimeSeries.
+- Added optical electrical accessories for (both old, single shutter and new dual shutter) fiber optic switches.
+- It is now possible to batch-convert STR8 files to ASCII.
+- When requesting too much STR scans, an error message is now shown.
+- Added "measurement delays" option. 
+- It is now possible to load more than 30 scans in the spectrum window.
+- When logging is enabled, AvaSoft8 will start with a new log file when starting up.
+- Improved information in log files.
+- The FOS-2-INL fiber optic switch can now be controlled by the ASMini spectrometer.
+
+Bug fixes:
+
+- Spectrum window: visible spectrum now shown correctly when wavenumbers are used.
+- AvaSoft8 no longer crashes when for some reason the autosave folder is removed.
+- FOS serial numbers now showing correctly in AvaSoft8 startup/splash window.
+- When switching from LIBS to regular measurement mode, no LIBS settings are used anymore.
+- When loading a reflectance spectrum and running a reflectance measurement, the loaded file is now shown correctly.

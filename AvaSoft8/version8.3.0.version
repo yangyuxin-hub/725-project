@@ -1,0 +1,15 @@
+AvaSoft 8.3.0
+
+Release Date (yyyy-mm-dd): 2015-09-03
+
+Changes / New features:
+
+- AvaSoft 8.3.0 uses avaspec.dll instead of as5216.dll
+- Support EVO series spectrometers
+- support Ethernet for AS7010 controller board 
+
+
+Bug fixes:
+- Autosave spectra periodically stopped after 2nd midnight pass.
+- Indication "Saturated" did sometimes show up while pixels were not saturated.   
+

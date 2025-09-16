@@ -1,0 +1,11 @@
+AvaSoft 8.1.4
+
+Release Date (yyyy-mm-dd): 2014-03-xx
+
+Changes / New features:
+
+
+Bug fixes:
+- Version 8.1.3 broke the stopping of scans while saving spectra. This caused e.g. comments to be erased in the files.
+- A combination of the 'TTL shutter on save dark" and the "hardware synch" features caused the scanning to be stopped.
+

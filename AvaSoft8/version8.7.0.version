@@ -1,0 +1,23 @@
+AvaSoft 8.7.0
+
+Release Date (yyyy-mm-dd): 2017-07-11
+
+Changes / New features:
+
+- Added final version of Raman module
+- Added custom dark reflectance
+- Support added for S13496 4096 pixel CMOS detector
+- Added optional UV regions to chart
+- Added extra line in Excel export sheet, with date/time info
+- Added support for Ethernet recovery
+- Default plug-in applications were moved from separate .DLL files to main .EXE file
+
+
+Bug fixes:
+
+- Multiple fixes to preliminary Raman module
+
+
+
+    
+

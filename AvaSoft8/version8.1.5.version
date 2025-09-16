@@ -1,0 +1,13 @@
+AvaSoft 8.1.5
+
+Release Date (yyyy-mm-dd): 2014-04-26
+
+Changes / New features:
+
+
+Bug fixes:
+- Save Spectra on digital input only worked for dark and reference data. It now also works for scope data.
+- Transparency in saved charts is now kept when saving to png format, the problem persists for jpeg and pdf.
+- Irradiance files were sometimes saved with an empty sensitivity array, resulting in all zero values on reopening.
+- Opening merged files on a machine without prior merged settings resulted in mixing several series together.
+- Save Periodically stopped at date rollover.

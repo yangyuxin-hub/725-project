@@ -1,0 +1,4 @@
+Fri Apr  5 21:06:47.845 2024: CCamDiagApp::InitInstance()
+Fri Apr  5 21:06:48.782 2024: InitNETKamera
+Fri Apr  5 21:06:48.819 2024: Found: PYROLINE 512N/2000HZ Device-ID: C1292039
+Fri Apr  5 21:06:56.751 2024: CCamDiagApp::ExitInstance()

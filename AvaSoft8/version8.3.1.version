@@ -1,0 +1,16 @@
+AvaSoft 8.3.1
+
+Release Date (yyyy-mm-dd): 2015-10-08
+
+Changes / New features:
+
+- Added PWM feature for the AvaSpec EVO
+- Added 'Set All' buttons for setting 'Integration Time' and 'Number of Averages' in the spectrometer window.
+
+Bug fixes:
+
+- Fixed installer problem with plug-in applications in version 8.3.0
+- Saving to ASCII in equidistant mode did not work in the 'Scope minus Dark' mode.
+- Calculating board temperature was fixed for the AvaSpec Mini and EVO models.
+   
+

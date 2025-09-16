@@ -1,0 +1,21 @@
+AvaSoft 8.1.3
+
+Release Date (yyyy-mm-dd): 2014-03-06
+
+Changes / New features:
+
+- This version supports new hardware, like the HAL mini, the AvaAbsorb and the Beam Splitter/Combiner
+- The 'Save on Digital Input' and 'Activate TTL Shutter on Save Dark' options were moved from the Main window to a Digital IO tab in the Spectrometer Settings windows. This means they can now be set separately for each spectrometer.
+- The Thin Film plug-in was added to the installer and manual.
+- Four sets of wavelength coefficients can now be saved to disk and reloaded.
+
+
+Bug fixes:
+
+- Dynamic dark correction for backthinned sensors is now fixed to 'on'.
+- Wavelength calibration coefficients are stored and used when changed in settings menu
+- More formats added to 'Graph' - 'Save As' menu
+- FWHM can be cleared in Scope mode window
+- Limit of open Spectrum files was raised
+- Auto Save Dark by TTL: shutter time is now dependent on expected cycle time
+- Version 8.1.2 broke the setting of dynamic dark, which is restored in 8.1.3

@@ -1,0 +1,68 @@
+----------------------------------------------------------------------------------------------------------------------------
+This is a log file from D:\20240416_1_lyh_725\20240416_1_lyh_725\715\PYROSOFT_Professional\DIASCam.dll - Version: 7.1.0.109
+----------------------------------------------------------------------------------------------------------------------------
+Ini file: D:\20240416_1_lyh_725\20240416_1_lyh_725\715\PYROSOFT_Professional\DIASCam.ini
+----------------------------------------------------------------------------------------------------------------------------
+Kali path: D:\20240416_1_lyh_725\20240416_1_lyh_725\715\PYROSOFT_Professional\Kali_Dat\
+Compatibility mode: 0
+----------------------------------------------------------------------------------------------------------------------------
+Current Settings
+Debug: 1
+Debug level: 0
+Debug days: 180
+----------------
+2024-04-16 11:35:02.678	[INFO]    	00000	         	          	----- [LOGGING: INITINSTANCE] -----	
+2024-04-16 11:35:03.232	[INFO]    	00000	         	          	This is a log file from the last device detection in DIASCam.dll - Version: 7.1.0.109	
+2024-04-16 11:35:03.232	[INFO]    	00000	         	          	>> Call Device Detection (Tue Apr 16 11:35:03.232 2024)	
+2024-04-16 11:35:03.232	[INFO]    	00000	         	          	+ Ethernet adapter list:	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- #1: Intel(R) Ethernet Controller I226-V, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: CC-82-7F-58-D4-EE	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- #2: Intel(R) Ethernet Connection (17) I219-V, IP: 169.254.155.172, SubNet: 255.255.0.0, Gateway: 0.0.0.0, MAC: CC-82-7F-58-D4-ED	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- #3: TP-LINK Wireless N Adapter, IP: 192.168.79.252, SubNet: 255.255.255.0, Gateway: 192.168.79.56, MAC: 74-39-89-0F-C0-F7	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- #4: Microsoft Wi-Fi Direct Virtual Adapter, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 74-39-89-0F-C0-F4	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- #5: Microsoft Wi-Fi Direct Virtual Adapter #2, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 74-39-89-0F-C0-F5	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	+ DeviceDetection(TCP, GigE)	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- AutoDetect: 1	
+2024-04-16 11:35:03.251	[INFO]    	00000	         	          	- UsePing: 1	
+2024-04-16 11:35:03.258	[INFO]    	00000	         	          	- IP Range: 0.0.0.0 ... 255.255.255.255	
+2024-04-16 11:35:03.258	[INFO]    	00000	         	          	+ Detect per UDP roadcast	
+2024-04-16 11:35:04.301	[INFO]    	00000	         	          	- FindByBroadcast: 2 cameras (1043 ms)	
+2024-04-16 11:35:04.301	[INFO]    	00000	         	          	- #1: C1292039@169.254.111.104 via 169.254.155.172 (BC DIAS)	
+2024-04-16 11:35:04.301	[INFO]    	00000	         	          	- #2: C1292039@169.254.111.104 via 169.254.155.172 (BC GigE)	
+2024-04-16 11:35:04.301	[INFO]    	00000	         	          	+ Sort by matched adapter	
+2024-04-16 11:35:04.315	[INFO]    	00000	         	          	- Sorted: 2 cameras	
+2024-04-16 11:35:04.315	[INFO]    	00000	         	          	- #1: C1292039@169.254.111.104 via 169.254.155.172 (BC DIAS)	
+2024-04-16 11:35:04.315	[INFO]    	00000	         	          	- #2: C1292039@169.254.111.104 via 169.254.155.172 (BC GigE)	
+2024-04-16 11:35:04.315	[INFO]    	00000	         	          	+ #1: Check connection to camera: C1292039@169.254.111.104 via 169.254.155.172	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	- CheckConnection_TCP(169.254.111.104 via 169.254.155.172): ok	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	- TCP connection successfully established (459 ms)	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	- Device: PYROLINE 512N/2000Hz Device-ID: C1292039	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	- Device-ID: C1292039	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	+ #2: C1292039@169.254.111.104	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	- Camera already in device list	
+2024-04-16 11:35:04.773	[INFO]    	00000	         	          	<< Exit Device Detection (1.5 seconds): found 1 device(s)	
+2024-04-16 11:35:05.024	[INFO]    	00000	[DEV=01] 	          	>> Eth::DoOpenDevice(169.254.111.104) (Tue Apr 16 11:35:05.024 2024)	
+2024-04-16 11:35:05.042	[INFO]    	00000	[DEV=01] 	          	CreateTreiberEthernet: ok	
+2024-04-16 11:35:05.049	[INFO]    	00000	[DEV=01] 	          	GetIDStrW: ok	
+2024-04-16 11:35:05.060	[INFO]    	00000	[DEV=01] 	          	UpdateVersionInfo: ok	
+2024-04-16 11:35:05.061	[INFO]    	00000	[DEV=01] 	          	ID.InitFromDevice: ok	
+2024-04-16 11:35:05.150	[INFO]    	00000	[DEV=01] 	          	ReadFileAll(cfg): ok	
+2024-04-16 11:35:05.168	[INFO]    	00000	[DEV=01] 	          	Write 695 bytes (cfg): ok	
+2024-04-16 11:35:05.179	[INFO]    	00000	[DEV=01] 	          	UpdateCfgFile: FileSize(C1292039.CFG): 716	
+2024-04-16 11:35:05.179	[INFO]    	00000	[DEV=01] 	          	UpdateCfgFile: ok	
+2024-04-16 11:35:05.642	[INFO]    	00000	[DEV=01] 	          	ReadFileAll(tk1): ok	
+2024-04-16 11:35:05.656	[INFO]    	00000	[DEV=01] 	          	Write 4727 bytes (tk1): ok	
+2024-04-16 11:35:05.668	[INFO]    	00000	[DEV=01] 	          	UpdateTKLFile: FileSize(C1292039.TK1): 4748	
+2024-04-16 11:35:05.669	[INFO]    	00000	[DEV=01] 	          	UpdateTKLFile: ok: num ranges: 1	
+2024-04-16 11:35:05.682	[INFO]    	00000	[DEV=01] 	          	ReadFileAll(dpe): ok	
+2024-04-16 11:35:05.701	[INFO]    	00000	[DEV=01] 	          	Write 47 bytes (dpe): ok	
+2024-04-16 11:35:05.710	[INFO]    	00000	[DEV=01] 	          	Use dpe file from camera	
+2024-04-16 11:35:05.710	[INFO]    	00000	[DEV=01] 	          	UpdatePIXFile: FileSize(C1292039.PIX): 68	
+2024-04-16 11:35:05.710	[INFO]    	00000	[DEV=01] 	          	Convert dpe to tpx: ok	
+2024-04-16 11:35:05.719	[INFO]    	00000	[DEV=01] 	          	UpdateTPXFile: FileSize(C1292039.TPX): 6	
+2024-04-16 11:35:05.719	[INFO]    	00000	[DEV=01] 	          	UpdateTPXFile: ok	
+2024-04-16 11:35:05.752	[INFO]    	00000	[DEV=01] 	          	FillDeviceINFO: ok	
+2024-04-16 11:35:07.380	[INFO]    	00000	[DEV=01] 	          	<< Eth::DoOpenDevice needs 2356 ms	
+2024-04-16 11:35:07.419	[ERROR]   	00000	[DEV=01] 	          	Error: CAMDLL_OUTPUT(DevNo: 1, Item: 427, BufSize: 20, pBuf: 0x003EDA08, pBuf[0]=) >> return 21!	
+2024-04-16 11:35:07.419	[ERROR]   	00000	[DEV=01] 	          	Error: CAMDLL_INPUT(DevNo: 1, Item: 427, BufSize: 20, pBuf: 0x003ED9E8, pBuf[0]=) >> return 21!	
+2024-04-16 11:35:07.622	[ERROR]   	00000	[DEV=01] 	          	Error: CAMDLL_INPUT(DevNo: 1, Item: 427, BufSize: 20, pBuf: 0x003EE378, pBuf[0]=) >> return 21!	
+2024-04-16 11:35:35.000	[INFO]    	00000	         	          	----- [LOGGING: EXITINSTANCE] -----	

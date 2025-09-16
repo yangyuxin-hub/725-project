@@ -1,0 +1,18 @@
+AvaSoft 8.2.0
+
+Release Date (yyyy-mm-dd): 2015-03-15
+
+Changes / New features:
+
+- Export of calculated thin-film spectral reflection data to an ASCII text file.
+- Global options has new icon "Look and feel" with option to set a default spectral line width.
+- Live data from merged channel can now be exported to Excel.
+
+Bug fixes:
+- XE light source is now switched off together with shutter control during saving of dark.
+- Default multiplication factor in integral time-series settings now set to 1.
+- Beam-splitter, fix for exception pop-up when selecting auto-configure (SAC) button.
+- AvaSoft manual updates (femto application, merging, save periodically and more)
+- Improved spline function to prevent recursion issue.
+
+

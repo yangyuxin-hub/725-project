@@ -1,0 +1,20 @@
+AvaSoft 8.15.0
+
+Release Date (yyyy-mm-dd): 2022-09-09
+
+Changes / New features:
+
+- Spectrum window now has a find average option.
+- Timeseries log now showing ms values.
+- Added option to remove old log files on AvaSoft8 startup.
+
+Bug fixes:
+
+- Live output to file in Raman mode now ok.
+- Now showing an error message when live output to Excel is selected where no Excel is installed.
+- Now showing progress bar in spectrometer panel when measuring in StoreToRam mode using a short integration time.
+- Fixed a problem when using a large number of scans on external trigger.
+- Color parameters now showing correct values.
+- Spectrometer settings/lightsource values now saved when switching tab.
+- Removing a FOS from the accessoires now working properly.
+- Merged channel legend now showing correct start/stop wavelength values after creating the merged channel.

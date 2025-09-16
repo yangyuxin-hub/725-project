@@ -1,0 +1,22 @@
+AvaSoft 8.0.2
+
+Release Date (yyyy-mm-dd): 2012-03-05
+
+Changes / New features:
+
+- Live data can now be directly saved to Excel
+- Independent zoom scales for each measure mode in the Spectrum Plug-in were added
+- A Remove loaded spectrum button in Spectrum Info form was added
+- The default illuminant is now set to D65 in the Color Plug-in
+- A 'Check for Update' button was added to the Help menu
+- During the saving of spectra, the update of new data is now paused
+
+
+Bug fixes:
+
+- 3D Spectrum showed an incomplete screen on laptops with an obscure resolution
+- The series of deactivated spectrometers are now hidden
+- Save irradiance calibration to EEPROM bug is fixed
+- Auto saving of spectra stopped at midnight, is fixed
+- Bug in enabling of Custom Reflectance is fixed
+- Time series did not save the color parameters in the .dat file

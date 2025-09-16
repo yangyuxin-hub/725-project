@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------------------------------------------
+This is a log file from D:\OpenSource\715\Latest\715\PYROSOFT_Professional\PSProfessional.exe - Version: 5.8.1.139
+-------------------------------------------------------------------------------------------------------------------
+Debug days: 1095
+-----------------
+2024-09-25 14:16:37.095	[INFO]    	00000	         	          	----- [LOGGING: INITINSTANCE] -----	
+2024-09-25 14:16:39.386	[ERROR]   	03810	         	          	’“≤ªµΩ»»œÒ“«!	
+2024-09-25 15:13:28.228	[DEBUG]   	00000	         	          	Max_HandleCount: 946	
+2024-09-25 15:13:28.228	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 46.543 MB	
+2024-09-25 15:13:50.626	[DEBUG]   	00000	         	          	Max_HandleCount: 948	
+2024-09-25 15:13:56.862	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 47.426 MB	
+2024-09-25 15:14:06.164	[DEBUG]   	00000	         	          	Max_HandleCount: 1273	
+2024-09-25 15:14:06.164	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 70.180 MB	
+2024-09-25 15:14:31.788	[DEBUG]   	00000	         	          	Max_HandleCount: 1274	
+2024-09-25 15:20:02.950	[INFO]    	00000	         	          	----- [LOGGING: EXITINSTANCE] -----	

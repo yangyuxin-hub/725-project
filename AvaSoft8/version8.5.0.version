@@ -1,0 +1,20 @@
+AvaSoft 8.5.0
+
+Release Date (yyyy-mm-dd): 2016-06-30
+
+Changes / New features:
+
+- Added support for Single Scan Triggering for EVO spectrometers
+- Demo mode added that runs without a spectrometer attached
+- Averaging is now allowed in StoreToRam mode
+
+
+Bug fixes:
+
+- Merging mode was improved
+- Export to Excel was improved
+- Splining mode was improved
+
+
+    
+

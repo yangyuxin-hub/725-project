@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------
+This is a log file from C:\DIAS\PYROSOFT Professional\PSProfessional.exe - Version: 5.8.1.139
+----------------------------------------------------------------------------------------------
+Debug days: 1095
+-----------------
+2024-04-05 21:04:47.847	[INFO]    	00000	         	          	----- [LOGGING: INITINSTANCE] -----	
+2024-04-05 21:04:51.305	[ERROR]   	03810	         	          	找不到热像仪!	
+2024-04-05 21:04:53.489	[DEBUG]   	00000	         	          	Max_HandleCount: 1028	
+2024-04-05 21:04:53.489	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 50.824 MB	
+2024-04-05 21:04:53.919	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 50.836 MB	
+2024-04-05 21:04:57.287	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 50.848 MB	
+2024-04-05 21:04:58.017	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 50.883 MB	
+2024-04-05 21:05:00.057	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 50.887 MB	
+2024-04-05 21:05:00.451	[DEBUG]   	00000	         	          	Max_HandleCount: 1034	
+2024-04-05 21:05:00.451	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 52.832 MB	
+2024-04-05 21:05:06.676	[ERROR]   	03915	         	          	错误: 打开模板文件。
+可能不支持安装的Word版本.	
+2024-04-05 21:05:07.569	[DEBUG]   	00000	         	          	Max_HandleCount: 1038	
+2024-04-05 21:05:07.569	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 54.582 MB	
+2024-04-05 21:05:08.467	[DEBUG]   	00000	         	          	Max_HandleCount: 1041	
+2024-04-05 21:05:09.832	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 55.434 MB	
+2024-04-05 21:05:18.091	[DEBUG]   	00000	         	          	Max_HandleCount: 1043	
+2024-04-05 21:08:01.658	[ERROR]   	03810	         	          	找不到热像仪!	
+2024-04-05 21:22:48.025	[INFO]    	00000	         	          	----- [LOGGING: EXITINSTANCE] -----	

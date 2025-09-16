@@ -1,0 +1,21 @@
+This is a log file from the last device detection in DIASCam.dll - Version: 6.18.0.24
+
+>> Call Device Detection (Wed Sep 25 16:52:11.007 2024)
+
++ Ethernet adapter list:
+- #1: Bluetooth Device (Personal Area Network), IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: D0-C6-37-BD-DC-CD
+- #2: Sangfor aTrust VNIC, IP: 2.0.0.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-FF-6D-0F-B2-29
+- #3: Realtek PCIe GbE Family Controller #2, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 00-E0-4C-85-53-26
+- #4: Intel(R) Wireless-AC 9462, IP: 10.180.142.62, SubNet: 255.254.0.0, Gateway: 10.180.0.1, MAC: D0-C6-37-BD-DC-C9
+- #5: Microsoft Wi-Fi Direct Virtual Adapter, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: D0-C6-37-BD-DC-CA
+- #6: Microsoft Wi-Fi Direct Virtual Adapter #2, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: D2-C6-37-BD-DC-C9
+
++ DeviceDetection(TCP, GigE)
+- AutoDetect: 1
+- UsePing: 1
+- IP Range: 0.0.0.0 ... 255.255.255.255
+
++ Detect per UDP roadcast
+- FindByBroadcast: 0 cameras (1081 ms)
+
+<< Exit Device Detection (1.2 seconds): found 0 device(s)

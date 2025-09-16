@@ -1,0 +1,17 @@
+AvaSoft 8.3.2
+
+Release Date (yyyy-mm-dd): 2016-01-15
+
+Changes / New features:
+
+- Added selection feature for Ethernet spectrometers
+- Added equidistant mode for SPC file export
+- More export facilities for merged series
+- With merging, individual spectrometers are not shown anymore by default
+
+Bug fixes:
+
+- Fixed a problem with saving and reloading devicelist info when using experiment files
+
+   
+

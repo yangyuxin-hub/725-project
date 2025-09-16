@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------------------------------------------
+This is a log file from D:\OpenSource\715\Latest\715\PYROSOFT_Professional\PSProfessional.exe - Version: 5.8.1.139
+-------------------------------------------------------------------------------------------------------------------
+Debug days: 1095
+-----------------
+2024-09-21 17:32:55.880	[INFO]    	00000	         	          	----- [LOGGING: INITINSTANCE] -----	
+2024-09-21 17:32:58.558	[ERROR]   	03810	         	          	找不到热像仪!	
+2024-09-21 17:33:03.848	[DEBUG]   	00000	         	          	Max_HandleCount: 952	
+2024-09-21 17:33:03.848	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 46.434 MB	
+2024-09-21 17:33:05.996	[DEBUG]   	00000	         	          	Max_HandleCount: 958	
+2024-09-21 17:33:26.131	[DEBUG]   	00000	         	          	Max_HandleCount: 959	
+2024-09-21 17:33:38.585	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 47.832 MB	
+2024-09-21 17:33:54.182	[DEBUG]   	00000	         	          	Max_PeakWorkingSetSize: 48.207 MB	
+2024-09-21 17:38:57.273	[ERROR]   	03810	         	          	找不到热像仪!	
+2024-09-21 17:40:57.774	[DEBUG]   	00000	         	          	Max_HandleCount: 980	
+2024-09-21 17:41:58.436	[DEBUG]   	00000	         	          	Max_HandleCount: 981	
+2024-09-21 19:16:08.551	[INFO]    	00000	         	          	----- [LOGGING: EXITINSTANCE] -----	

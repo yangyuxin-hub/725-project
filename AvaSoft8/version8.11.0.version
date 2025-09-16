@@ -1,0 +1,27 @@
+AvaSoft 8.11.0
+
+Release Date (yyyy-mm-dd): 2020-04-01
+
+Changes / New features:
+
+- Maximum cycle time used when auto-configuring the spectrometers is now a setting.
+- When LIBS mode is disabled in the options, the measurement mode will automatically change to continuous.
+- First and second derivative spectra can be shown for loaded spectra.
+- Laser options now enabled for spectrometers with the HAMS13496 sensor.
+- Saving Dark, Reference and the AutoConfigure option are now showing a progress message.
+- A full factory reset of the spectrometer can now be done in the spectrometer settings.
+- Last used file locations (for example when saving a measurement) are now saved.
+- Saving merged files now possible when in LIBS mode.
+- Irradiance Intensity calibration values can now be saved to EEPROM and file without having to calibrate again.
+- In the Color application, saved color values are shown in a new “database” section on the color window.
+- Color values saved to the text file can now be exported to CSV or Excel.
+
+Bug fixes:
+
+- “Save Spectra Periodically” option now working ok when passing midnight.
+- Options / Auto save spectra is now enabled in basic version of AvaSoft8.
+- Improved Save Dark performance.
+- XE light now turning on again after a Save Dark.
+- ThinFilm timeseries are now working properly when passing midnight.
+- Selecting another channel in the ThinFilm application will not add a new series on the chart anymore.
+- Changing the master channel on a multi-channel system will now work ok.

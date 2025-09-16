@@ -1,0 +1,28 @@
+AvaSoft 8.8.0
+
+Release Date (yyyy-mm-dd): 2018-01-02
+
+Changes / New features:
+
+- thinfilm plug-in: default thickness stepsize changed to 1 nm and narrow search steps to 20 nm
+- thinfilm plug-in: improved the help text of ASCII button
+- thinfilm plug-in: improved zooming feature
+- thinfilm plug-in: max. wavelength range changed to 1100 nm
+- improved usb disconnect/connect stability
+- improved ethernet auto recovery
+- default settings for custom dark and custom white
+- date and/or time option for saved files naming
+- allow change of number of decimals in ASCII output
+- live output to ASCII files
+- setting the integration time for a Xenon source should be limited to 10ms.
+
+Bug fixes:
+- integration times can now be set larger than 1000 sec.
+- integration time can now be changed during active measurements
+- unplugging a spectrometer while measuring no longer results in hang-up
+- help button will now execute local webbrowser, showing Avantes website
+
+
+
+    
+

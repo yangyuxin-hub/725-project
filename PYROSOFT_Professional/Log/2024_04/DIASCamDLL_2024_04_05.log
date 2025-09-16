@@ -1,0 +1,65 @@
+---------------------------------------------------------------------------------------
+This is a log file from C:\DIAS\PYROSOFT Professional\DIASCam.dll - Version: 7.1.0.109
+---------------------------------------------------------------------------------------
+Ini file: C:\DIAS\PYROSOFT Professional\DIASCam.ini
+---------------------------------------------------------------------------------------
+Kali path: C:\DIAS\PYROSOFT Professional\Kali_Dat\
+Compatibility mode: 0
+---------------------------------------------------------------------------------------
+Current Settings
+Debug: 1
+Debug level: 0
+Debug days: 180
+----------------
+2024-04-05 21:04:47.281	[INFO]    	00000	         	          	----- [LOGGING: INITINSTANCE] -----	
+2024-04-05 21:04:49.516	[INFO]    	00000	         	          	This is a log file from the last device detection in DIASCam.dll - Version: 7.1.0.109	
+2024-04-05 21:04:49.516	[INFO]    	00000	         	          	>> Call Device Detection (Fri Apr  5 21:04:49.516 2024)	
+2024-04-05 21:04:49.516	[INFO]    	00000	         	          	+ Ethernet adapter list:	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #1: Bluetooth Device (Personal Area Network), IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 90-78-41-44-D7-83	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #2: VMware Virtual Ethernet Adapter for VMnet1, IP: 192.168.17.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-50-56-C0-00-01	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #3: VMware Virtual Ethernet Adapter for VMnet8, IP: 192.168.121.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-50-56-C0-00-08	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #4: Sangfor aTrust VNIC, IP: 2.0.0.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-FF-BB-0D-23-DA	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #5: BM Win32 Network Adapter, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 00-FF-13-86-E1-AB	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #6: Npcap Loopback Adapter, IP: 169.254.14.21, SubNet: 255.255.0.0, Gateway: 0.0.0.0, MAC: 02-00-4C-4F-4F-50	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #7: TAP-Windows Adapter V9, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 00-FF-4F-0E-3B-CC	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #8: Realtek PCIe GbE Family Controller #2, IP: 169.254.202.147, SubNet: 255.255.0.0, Gateway: 0.0.0.0, MAC: 98-FA-9B-49-8C-90	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #9: Intel(R) Wireless-AC 9560 160MHz, IP: 10.181.169.245, SubNet: 255.254.0.0, Gateway: 10.180.0.1, MAC: 90-78-41-44-D7-7F	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #10: Microsoft Wi-Fi Direct Virtual Adapter, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 90-78-41-44-D7-80	
+2024-04-05 21:04:49.755	[INFO]    	00000	         	          	- #11: Microsoft Wi-Fi Direct Virtual Adapter #2, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 92-78-41-44-D7-7F	
+2024-04-05 21:04:49.756	[INFO]    	00000	         	          	+ DeviceDetection(TCP, GigE)	
+2024-04-05 21:04:49.756	[INFO]    	00000	         	          	- AutoDetect: 1	
+2024-04-05 21:04:49.758	[INFO]    	00000	         	          	- UsePing: 1	
+2024-04-05 21:04:49.871	[INFO]    	00000	         	          	- IP Range: 0.0.0.0 ... 255.255.255.255	
+2024-04-05 21:04:49.871	[INFO]    	00000	         	          	+ Detect per UDP roadcast	
+2024-04-05 21:04:51.135	[INFO]    	00000	         	          	- FindByBroadcast: 2 cameras (1264 ms)	
+2024-04-05 21:04:51.135	[INFO]    	00000	         	          	- #1: C1292039@169.254.111.104 via 169.254.202.147 (BC DIAS)	
+2024-04-05 21:04:51.135	[INFO]    	00000	         	          	- #2: C1292039@169.254.111.104 via 169.254.202.147 (BC GigE)	
+2024-04-05 21:04:51.135	[INFO]    	00000	         	          	+ Sort by matched adapter	
+2024-04-05 21:04:51.247	[INFO]    	00000	         	          	- Sorted: 0 cameras	
+2024-04-05 21:04:51.247	[INFO]    	00000	         	          	<< Exit Device Detection (1.7 seconds): found 0 device(s)	
+2024-04-05 21:07:59.876	[INFO]    	00000	         	          	This is a log file from the last device detection in DIASCam.dll - Version: 7.1.0.109	
+2024-04-05 21:07:59.876	[INFO]    	00000	         	          	>> Call Device Detection (Fri Apr  5 21:07:59.876 2024)	
+2024-04-05 21:07:59.876	[INFO]    	00000	         	          	+ Ethernet adapter list:	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #1: Bluetooth Device (Personal Area Network), IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 90-78-41-44-D7-83	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #2: VMware Virtual Ethernet Adapter for VMnet1, IP: 192.168.17.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-50-56-C0-00-01	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #3: VMware Virtual Ethernet Adapter for VMnet8, IP: 192.168.121.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-50-56-C0-00-08	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #4: Sangfor aTrust VNIC, IP: 2.0.0.1, SubNet: 255.255.255.0, Gateway: 0.0.0.0, MAC: 00-FF-BB-0D-23-DA	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #5: BM Win32 Network Adapter, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 00-FF-13-86-E1-AB	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #6: Npcap Loopback Adapter, IP: 169.254.14.21, SubNet: 255.255.0.0, Gateway: 0.0.0.0, MAC: 02-00-4C-4F-4F-50	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #7: TAP-Windows Adapter V9, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 00-FF-4F-0E-3B-CC	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #8: Realtek PCIe GbE Family Controller #2, IP: 169.254.202.147, SubNet: 255.255.0.0, Gateway: 0.0.0.0, MAC: 98-FA-9B-49-8C-90	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #9: Intel(R) Wireless-AC 9560 160MHz, IP: 10.181.169.245, SubNet: 255.254.0.0, Gateway: 10.180.0.1, MAC: 90-78-41-44-D7-7F	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #10: Microsoft Wi-Fi Direct Virtual Adapter, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 90-78-41-44-D7-80	
+2024-04-05 21:08:00.089	[INFO]    	00000	         	          	- #11: Microsoft Wi-Fi Direct Virtual Adapter #2, IP: 0.0.0.0, SubNet: 0.0.0.0, Gateway: 0.0.0.0, MAC: 92-78-41-44-D7-7F	
+2024-04-05 21:08:00.090	[INFO]    	00000	         	          	+ DeviceDetection(TCP, GigE)	
+2024-04-05 21:08:00.090	[INFO]    	00000	         	          	- AutoDetect: 1	
+2024-04-05 21:08:00.092	[INFO]    	00000	         	          	- UsePing: 1	
+2024-04-05 21:08:00.195	[INFO]    	00000	         	          	- IP Range: 0.0.0.0 ... 255.255.255.255	
+2024-04-05 21:08:00.195	[INFO]    	00000	         	          	+ Detect per UDP roadcast	
+2024-04-05 21:08:01.423	[INFO]    	00000	         	          	- FindByBroadcast: 2 cameras (1228 ms)	
+2024-04-05 21:08:01.423	[INFO]    	00000	         	          	- #1: C1292039@169.254.111.104 via 169.254.202.147 (BC DIAS)	
+2024-04-05 21:08:01.423	[INFO]    	00000	         	          	- #2: C1292039@169.254.111.104 via 169.254.202.147 (BC GigE)	
+2024-04-05 21:08:01.423	[INFO]    	00000	         	          	+ Sort by matched adapter	
+2024-04-05 21:08:01.533	[INFO]    	00000	         	          	- Sorted: 0 cameras	
+2024-04-05 21:08:01.533	[INFO]    	00000	         	          	<< Exit Device Detection (1.7 seconds): found 0 device(s)	
+2024-04-05 21:22:48.044	[INFO]    	00000	         	          	----- [LOGGING: EXITINSTANCE] -----	

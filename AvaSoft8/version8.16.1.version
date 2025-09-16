@@ -1,0 +1,14 @@
+AvaSoft 8.16.1
+
+Release Date (yyyy-mm-dd): 2023-07-01
+
+Changes / New features:
+- A new muxusb library now supports new FOM devices with new firmware.
+- When saving a FWHM file without entering an extension, AvaSoft8 will add this extension now.
+- The "number of scans to save" in the Options/Save Spectra Periodically is set to be a minimum of 1.
+- Up to 100 scans all have different colors in the spectrum window.
+
+Bug fixes:
+
+- When changing the measure mode after loading a spectrum, the spectrum is now correctly drawn.
+- Converting old AvaSoft7 files now shows a message when converting (obsolete, old) files fails.

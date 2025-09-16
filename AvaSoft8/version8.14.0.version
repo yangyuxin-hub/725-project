@@ -1,0 +1,22 @@
+AvaSoft 8.14.0
+
+Release Date (yyyy-mm-dd): 2022-05-12
+
+Changes / New features:
+
+- Added support for new AS7007 spectrometer.
+- Faster conversion of large STR files to ASCII or Excel.
+- Better check on minimum integration time.
+- Converting files to Excel now also works for complete folders with files.
+- Added new XE lightsource with adjustable maximum frequency.
+- When converting raw datafiles to Excel, an existing Excel file can now be selected to add the data to.
+- Spectrum3D windows now remembers the last location used for opening STR files.
+- Added "Live output to file" option to Ramanscope plugin
+
+
+Bug fixes:
+
+- Save Spectra now doesn't save data for disabled spectrometers.
+- Find peak label now always showing correctly.
+- AvaSoft8 now always saving live data to Excel when using single scan measurements.
+- Timeseries now working with connected Beam Splitter/FOS or Fiber Optic Switch.

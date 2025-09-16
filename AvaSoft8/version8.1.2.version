@@ -1,0 +1,19 @@
+AvaSoft 8.1.2
+
+Release Date (yyyy-mm-dd): 2013-10-14
+
+Changes / New features:
+- Improved the auto integration function for the AvaSpec Mini & Micro.
+- AvaSpec Mini & Micro device name default is serial number.
+- Feedback "spectra saved" if comment is disabled and auto file is enabled.
+- Thin Film plug-in added.
+- Printed spectrum shows wavelength/amplitude at cursor position.
+- Batch convert: multiple files in a folder to GRAMS or JCAMP.
+- Open dialog shows the preview according to the saved measure mode.
+
+
+Bug fixes:
+- Spectrum 3D gave out of memory on export to Excel with merged data.
+- Fixed Spline causes partly disappearing spectra.
+- Merged information cleared on new Experiment.
+- Fiber diameter is correctly saved in the EEPROM after an irradiance calibration.

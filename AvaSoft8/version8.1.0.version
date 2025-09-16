@@ -1,0 +1,21 @@
+AvaSoft 8.1.0
+
+Release Date (yyyy-mm-dd): 2013-04-18
+
+Changes / New features:
+
+- Added support for compact spectrometer AvaSpec Mini
+- Control panel for the AvaAbsorb, FOS and Multiplexer
+- Possibility to show Photo density instead of Energy density
+- Zoom and scale settings are saved per measure mode
+- Load spectra file in the Color application
+
+Bug fixes:
+- No endless loop during Auto integration time if spectrometers are merged
+- Timeseries graph made strange jumps if fixed time was selected for the x-axis.
+- Timeseries could not select a device for a function
+- Input triggered spectrometer needed 3 trigger before dark was saved if shutter is enabled.
+- The about box give a exception
+- Save irradiance calibration to EPPROM did not always save.
+- File name for Export to ASCII not shortened
+- Custom reflectance could not be enabled

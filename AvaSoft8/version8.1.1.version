@@ -1,0 +1,18 @@
+AvaSoft 8.1.1
+
+Release Date (yyyy-mm-dd): 2013-07-31
+
+Changes / New features:
+
+- Updated mini/micro functionality
+- Save and loading of merged spectra
+- Live save spectra in spectrum application
+- Open and save spectra files in color application
+- Convert to ASCII function to convert all spectra files in a folder.
+- Choice to export loaded spectra to excel 
+
+Bug fixes:
+- Export to Excel gave exception
+- Raman laser wavelength default set to 532nm
+- 3D Export to ASCII timestamp in ascii file was incorrect aligned
+

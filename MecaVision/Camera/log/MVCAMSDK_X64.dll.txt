@@ -1,0 +1,60 @@
+﻿2024-03-30 16:32:16.901 INFO  [23760] [CameraInit@738] CameraInit enter, SDKVersion:2.1.10.173
+ProductSeries:Usb3Camera0
+FriendlyName:Mecaweld-M2
+LinkName:VID_F622&PID_D13F
+DriverVersion:3.0.0.142
+SensorType:CMOS 1.3M
+PortType:USB3.0
+Sn:043040520175
+Instance:0
+2024-03-30 16:32:16.902 INFO  [23760] [CMVCAMSDK::CameraInit@520] Before load interface
+2024-03-30 16:32:16.907 INFO  [23760] [CMVCAMSDK::CameraInit@528] Before load isp
+2024-03-30 16:32:16.993 INFO  [23760] [CMVCAMSDK::CameraInit@543] Before instance init
+2024-03-30 16:32:17.653 INFO  [23760] [CMVCAMSDK::CameraInit@545] After instance init ret:0
+2024-03-30 16:32:17.653 INFO  [23760] [CameraInit@806] CameraInit return, status:0,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-03-30 16:41:56.344 INFO  [23760] [CameraUnInit@942] CameraUnInit ,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-04-01 15:12:41.324 INFO  [5692] [CameraInit@738] CameraInit enter, SDKVersion:2.1.10.173
+ProductSeries:Usb3Camera0
+FriendlyName:Mecaweld-M2
+LinkName:VID_F622&PID_D13F
+DriverVersion:3.0.0.142
+SensorType:CMOS 1.3M
+PortType:USB3.0
+Sn:043040520175
+Instance:0
+2024-04-01 15:12:41.325 INFO  [5692] [CMVCAMSDK::CameraInit@520] Before load interface
+2024-04-01 15:12:41.329 INFO  [5692] [CMVCAMSDK::CameraInit@528] Before load isp
+2024-04-01 15:12:41.409 INFO  [5692] [CMVCAMSDK::CameraInit@543] Before instance init
+2024-04-01 15:12:42.174 INFO  [5692] [CMVCAMSDK::CameraInit@545] After instance init ret:0
+2024-04-01 15:12:42.174 INFO  [5692] [CameraInit@806] CameraInit return, status:0,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-04-01 18:02:34.560 INFO  [5692] [CameraUnInit@942] CameraUnInit ,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-04-02 15:58:56.707 INFO  [12244] [CameraInit@738] CameraInit enter, SDKVersion:2.1.10.173
+ProductSeries:Usb3Camera0
+FriendlyName:Mecaweld-M2
+LinkName:VID_F622&PID_D13F
+DriverVersion:3.0.0.142
+SensorType:CMOS 1.3M
+PortType:USB3.0
+Sn:043040520175
+Instance:0
+2024-04-02 15:58:56.708 INFO  [12244] [CMVCAMSDK::CameraInit@520] Before load interface
+2024-04-02 15:58:56.713 INFO  [12244] [CMVCAMSDK::CameraInit@528] Before load isp
+2024-04-02 15:58:56.793 INFO  [12244] [CMVCAMSDK::CameraInit@543] Before instance init
+2024-04-02 15:58:57.555 INFO  [12244] [CMVCAMSDK::CameraInit@545] After instance init ret:0
+2024-04-02 15:58:57.555 INFO  [12244] [CameraInit@806] CameraInit return, status:0,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-04-02 16:56:59.495 INFO  [12244] [CameraUnInit@942] CameraUnInit ,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-04-02 17:15:27.606 INFO  [22032] [CameraInit@738] CameraInit enter, SDKVersion:2.1.10.173
+ProductSeries:Usb3Camera0
+FriendlyName:Mecaweld-M2
+LinkName:VID_F622&PID_D13F
+DriverVersion:3.0.0.142
+SensorType:CMOS 1.3M
+PortType:USB3.0
+Sn:043040520175
+Instance:0
+2024-04-02 17:15:27.607 INFO  [22032] [CMVCAMSDK::CameraInit@520] Before load interface
+2024-04-02 17:15:27.608 INFO  [22032] [CMVCAMSDK::CameraInit@528] Before load isp
+2024-04-02 17:15:27.684 INFO  [22032] [CMVCAMSDK::CameraInit@543] Before instance init
+2024-04-02 17:15:28.410 INFO  [22032] [CMVCAMSDK::CameraInit@545] After instance init ret:0
+2024-04-02 17:15:28.410 INFO  [22032] [CameraInit@806] CameraInit return, status:0,FriendlyName:Mecaweld-M2,SN:043040520175
+2024-04-02 17:23:55.373 INFO  [22032] [CameraUnInit@942] CameraUnInit ,FriendlyName:Mecaweld-M2,SN:043040520175

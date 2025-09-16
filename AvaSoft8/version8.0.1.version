@@ -1,0 +1,31 @@
+AvaSoft 8.0.1
+
+Release Date (yyyy-mm-dd): 2012-12-14
+
+Changes / New features:
+
+- Changed maximum integration time from 60 seconds to 600 seconds
+- Added option in main menu: File - New Experiment
+- Added the 'Save Irradiance calibration to Eeprom' button
+- Save merge channel to one raw8x file
+- Merged spectra can be exported to ascii, Excel, JCAMP or GRAMS
+- Timeseries: show function parameters in the excel sheet
+- Auto install Plug-ins if license bit is true for one of the spectrometers.
+- Convert file dialog: Select all files with Ctrl+A
+- Multichannel systems: optionally add the possibility to add one comment for all channels.
+- Save 3D spectra directly to ascii
+- Spectrum: Function to enable the legend next to the graph
+- Displaying irradiance data with the wavelength range that has been set. 
+
+Bug fixes:
+
+- Timeseries: Open new timeseries locked up if another timeseries (with Excel export) was already active (running or paused)
+- Timeseries: Output was only saved for the first 24 hours. Both Excel and .dat output stopped after 24 hours. 
+- TimeSeries: When loading functions from file, the program now makes sure the function name is unique.
+- The Excel sheet is now made not interactive while exporting time series data.
+- Custom reflectance is now fixed for color application.
+- Do not report "no dark or ref" if spectrometer is disabled
+- Spectrum3D: the "Display in 3D graph" did not display the 2D black line.
+- An equidistant wavelength interval of 0 could be entered in Save options.
+- Default data files like example.lmp and example.pct are now copied to the users\xxx\Avantes\AvaSoft8 folder
+- Timeseries: When displaying saved .dat files, the Y-axis did not show the correct title.
